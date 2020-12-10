@@ -15,7 +15,6 @@
 // ==/UserScript==
 
 // ~~~~~
-// - auto login when the default open page is https://gamehunters.club/sign-up/
 // - replaces gamehuters auto-collect feature with this script, which runs 24/7
 // ~~~~~
 
