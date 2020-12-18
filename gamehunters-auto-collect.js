@@ -1,12 +1,13 @@
 // ==UserScript==
 // @id           gamehunters-auto-collect@pida42
 // @name         GameHunters.club - Auto collect free WSOP chips
-// @version      1.0
+// @version      1.0.0
 // @namespace    http://github.com/pida42/gamehunters-auto-collect
-// @updateURL    http://github.com/pida42/gamehunters-auto-collect/raw/master/gamehunters-auto-collect.js
-// @downloadURL  http://github.com/pida42/gamehunters-auto-collect/raw/master/gamehunters-auto-collect.js
+// @homepageURL  http://github.com/pida42/gamehunters-auto-collect
+// @updateURL    https://raw.githubusercontent.com/pida42/gamehunters-auto-collect/main/gamehunters-auto-collect.js
 // @description  Auto collect free WSOP chips
 // @license      MIT
+// @icon         https://i.imgur.com/e7AOcvs.png
 // @match        *://gamehunters.club/*
 // @match        *://www.gamehunters.club/*
 // @require      https://code.jquery.com/jquery-2.1.4.min.js
